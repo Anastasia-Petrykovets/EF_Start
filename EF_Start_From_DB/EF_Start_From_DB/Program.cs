@@ -7,12 +7,6 @@ class Program
         //CREATE
         using (TestDbContext db = new TestDbContext())
         {
-            User user = db.Users.FirstOrDefault();
-            if (user != null)
-            {
-                db.Users.Remove(user);
-                db.SaveChanges();
-            }
             User user1 = new User {Name = "Anastasia", Age = 20};
             User user2 = new User {Name = "Andrew", Age = 21};
 

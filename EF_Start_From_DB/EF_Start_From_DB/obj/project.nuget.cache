@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LtCo87V0eJyMWX4Ev3OA+WrTLmTLll0rohzFEd795LySBEsYpVb2rcFsi1+99ENSAlvO874g/tnWOdOnlPiU9g==",
+  "dgSpecHash": "cWHnoQbyPS0RcN1p/iNnr44HIfDtBPH3+MRD1wMiu7gUq0J3voljLJjsyv+yY1NQz+efCySv11G21+2h/BMjJg==",
   "success": true,
-  "projectFilePath": "D:\\.netProjects\\EF_Start_From_DB\\EF_Start_From_DB\\EF_Start_From_DB.csproj",
+  "projectFilePath": "C:\\Users\\Anastasia\\Documents\\GitHub\\EF_Start\\EF_Start_From_DB\\EF_Start_From_DB\\EF_Start_From_DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anastasia\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\Anastasia\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",
